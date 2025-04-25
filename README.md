@@ -31,7 +31,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/prachipatil2005/Simple-Counter-React
    ```
 
 2. Navigate to the project directory:
